@@ -1,0 +1,27 @@
+.imagebox{
+    border-top:2px solid #19ebb7;
+    margin-top: 20px;
+    padding-top: 20px;
+
+}
+
+.images{
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.images>img{
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    padding: 14px;
+    border: 6px solid #19ebb7
+}
+
+.images>.download{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
